@@ -1,0 +1,17 @@
+{
+  "name": "keap-resubscribe",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Keap contact resubscribe service via Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "puppeteer": "^21.11.0"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
